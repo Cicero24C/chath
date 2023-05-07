@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Cicero24C/chath/main/src/assets/avatar.jpg',
       name: 'Cicero',
-      description: 'ChatGPT Official Here: <a href="https://chat.openai.com/chat" class="text-blue-500" target="_blank" >Chat</a>',
+      description: 'Time Lapses.',
     },
   }
 }
